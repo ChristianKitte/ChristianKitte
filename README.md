@@ -13,7 +13,8 @@ Zur besseren Übersicht habe ich meine Repositories auf einzelnen Seiten manuell
 
 [Eigene Übungen und Vertiefungen](https://github.com/ChristianKitte/ChristianKitte/blob/main/Training.md)
 
-### Etwas Statistik
+### Etwas Statistik über die genutzten Sprachen und Aktivitäten
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianKitte)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianKitte&theme=blue-green)](https://github.com/ChristianKitte/github-readme-stats)
 
