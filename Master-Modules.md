@@ -1,6 +1,6 @@
 # Code im Zusammnhang mit Module im Master
 
-## Game Design SS 2022 (Master)
+## Game Design SS 2022 (Master) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GameDesignSemesterprojekt)](https://github.com/ChristianKitte/GameDesignSemesterprojekt)
 
 ## Modul Deep Learning SS 2022 (Master)
