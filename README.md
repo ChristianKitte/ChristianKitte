@@ -1,3 +1,5 @@
+![backgrnd_tower](https://user-images.githubusercontent.com/32162305/178708403-5d86571a-e41c-4d8c-9ae2-b53d684c8125.jpg)
+
 ### Hallo, diese Seite ist aktuell im Aufbau und ich probiere vieles aus.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianKitte)](https://github.com/anuraghazra/github-readme-stats)
