@@ -2,43 +2,19 @@
 
 ### Hallo, diese Seite ist aktuell im Aufbau und ich probiere vieles aus.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianKitte)](https://github.com/anuraghazra/github-readme-stats)
+Nachdem ich bereits viele Jahren im Bereich Programmieurng und Datenbanken gearbeitet habe, studiere ich seit 2015 neben der Arbeit im Studiengang Online Medieninformatik an der HS Emden. GitHub nutze ich in erster Linie im Rahmes des Studiums zur Veröffentlichung meiner Arbeiten und wegen seiner Vorteile bei der
+Verwaltung und Versionsverwaltung. 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianKitte&theme=blue-green)](https://github.com/ChristianKitte/github-readme-stats)
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+Zur besseren Übersicht habe ich meine Repositories auf einzelnen Seiten manuell aufgeführt. Dies vereinfacht den Zugriff auf meine Repositories und ordnet sie nebenbei.
 
 [Code im Rahmen meines Studiums (Bachelor)](https://github.com/ChristianKitte/ChristianKitte/blob/main/Bachelor-Modules.md)
 
 [Code im Rahmen meines Studiums (Master)](https://github.com/ChristianKitte/ChristianKitte/blob/main/Master-Modules.md)
 
-## Eigene Projekte und Übungen
+[Eigene Übungen und Vertiefungen](https://github.com/ChristianKitte/ChristianKitte/blob/main/Training.md)
 
-### Übungen zur Webprogrammierung mit C#
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=HelloGraphQL)](https://github.com/ChristianKitte/HelloGraphQL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=RestClient)](https://github.com/ChristianKitte/RestClient)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=DockerWebAPI)](https://github.com/ChristianKitte/DockerWebAPI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=ConfigurationSample)](https://github.com/ChristianKitte/ConfigurationSample)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=AutofacTest)](https://github.com/ChristianKitte/AutofacTest)
+### Etwas Statistik
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianKitte)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianKitte&theme=blue-green)](https://github.com/ChristianKitte/github-readme-stats)
 
-### Übungen zu Unity
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=Unity-VerwendungVonModellen)](https://github.com/ChristianKitte/Unity-VerwendungVonModellen)
-
-### Übungen zu Tensorflow
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=WorkingTFSample)](https://github.com/ChristianKitte/WorkingTFSample)
-
-### Übungen zur Programmierung mit Android und Kotlin
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=AndroidViewPager2)](https://github.com/ChristianKitte/AndroidViewPager2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=HelloAndroidViewBinding)](https://github.com/ChristianKitte/HelloAndroidViewBinding)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=HelloAndroidROOM)](https://github.com/ChristianKitte/HelloAndroidROOM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=HelloAndroidSafeArgs)](https://github.com/ChristianKitte/HelloAndroidSafeArgs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=HelloAndroidNavigation)](https://github.com/ChristianKitte/HelloAndroidNavigation)
-
-### Noch einzuordnen
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=Linkliste)](https://github.com/ChristianKitte/Linkliste)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=SEGrabber)](https://github.com/ChristianKitte/SEGrabber)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=HelloFSharp)](https://github.com/ChristianKitte/HelloFSharp)
-
-
-
-
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
