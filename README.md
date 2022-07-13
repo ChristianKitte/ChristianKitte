@@ -5,7 +5,7 @@
 Nachdem ich bereits viele Jahren im Bereich Programmieurng und Datenbanken gearbeitet habe, studiere ich seit 2015 neben der Arbeit im Studiengang Online Medieninformatik an der HS Emden. GitHub nutze ich in erster Linie im Rahmes des Studiums zur Veröffentlichung meiner Arbeiten und wegen seiner Vorteile bei der
 Verwaltung und Versionsverwaltung. 
 
-Zur besseren Übersicht habe ich meine Repositories auf einzelnen Seiten manuell aufgeführt. Dies vereinfacht den Zugriff auf meine Repositories und ordnet sie nebenbei.
+Zur besseren Übersicht habe ich meine Repositories auf einzelnen Seiten manuell aufgeführt. Dies vereinfacht den Zugriff und ordnet sie nebenbei.
 
 [Code im Rahmen meines Studiums (Bachelor)](https://github.com/ChristianKitte/ChristianKitte/blob/main/Bachelor-Modules.md)
 
