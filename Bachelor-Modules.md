@@ -1,4 +1,4 @@
-# Code im Zusammnhang mit Module im Master
+# Code im Zusammenhang mit Module im Master
 
 ## Codebasis zur Bachelorarbeit 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=Textextraktion-und-Einordnung-mit-Hilfe-neuronaler-Netze)](https://github.com/ChristianKitte/Textextraktion-und-Einordnung-mit-Hilfe-neuronaler-Netze)
