@@ -11,11 +11,11 @@
 
 
 ## Modul Deep Learning SS 2022 (Master)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=DeepLearningBilderkennung)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=DeepLearningHelloTensorflow)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=DeepLearningSpikingNeurons)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=DeepLearningRegression)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=DeepLearningWordPrediction)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=DeepLearningBilderkennung)](https://github.com/ChristianKitte/DeepLearningBilderkennung)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=DeepLearningHelloTensorflow)](https://github.com/ChristianKitte/DeepLearningHelloTensorflow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=DeepLearningSpikingNeurons)](https://github.com/ChristianKitte/DeepLearningSpikingNeurons)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=DeepLearningRegression)](https://github.com/ChristianKitte/DeepLearningRegression)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=DeepLearningWordPrediction)](https://github.com/ChristianKitte/DeepLearningWordPrediction)
 
 ## Modul Datenbank Technologien WS 2021/22 (Master)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=SparkProjekt)](https://github.com/anuraghazra/github-readme-stats)
