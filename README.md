@@ -15,7 +15,8 @@ Zur besseren Übersicht habe ich meine Repositories auf einzelnen Seiten manuell
 
 ### Etwas Statistik über die genutzten Sprachen und Aktivitäten
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianKitte&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianKitte&theme=blue-green&langs_count=10)](https://github.com/ChristianKitte/github-readme-stats)
+[![Christian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianKitte&theme=aura&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianKitte&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
