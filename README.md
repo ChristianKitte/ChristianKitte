@@ -13,7 +13,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=RestClient)](https://github.com/ChristianKitte/RestClient)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=DockerWebAPI)](https://github.com/ChristianKitte/DockerWebAPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=ConfigurationSample)](https://github.com/ChristianKitte/ConfigurationSample)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=DockerfileExample)](https://github.com/ChristianKitte/DockerfileExample)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=AutofacTest)](https://github.com/ChristianKitte/AutofacTest)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=Unity-VerwendungVonModellen)](https://github.com/ChristianKitte/Unity-VerwendungVonModellen)
