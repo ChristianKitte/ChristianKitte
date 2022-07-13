@@ -17,7 +17,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=Unity-VerwendungVonModellen)](https://github.com/ChristianKitte/Unity-VerwendungVonModellen)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=WorkingTFSample)](https://github.com/ChristianKitte/WorkingTFSample)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=WorkingTFSample)](https://github.com/ChristianKitte/WorkingTFSample)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=AndroidViewPager2)](https://github.com/ChristianKitte/AndroidViewPager2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=HelloAndroidViewBinding)](https://github.com/ChristianKitte/HelloAndroidViewBinding)
