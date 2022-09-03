@@ -22,5 +22,4 @@
 
 ### Noch einzuordnen
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=Linkliste)](https://github.com/ChristianKitte/Linkliste)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=SEGrabber)](https://github.com/ChristianKitte/SEGrabber)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=HelloFSharp)](https://github.com/ChristianKitte/HelloFSharp)
