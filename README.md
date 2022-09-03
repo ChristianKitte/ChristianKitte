@@ -1,9 +1,14 @@
 ![backgrnd_tower](https://user-images.githubusercontent.com/32162305/178708403-5d86571a-e41c-4d8c-9ae2-b53d684c8125.jpg)
 
-### Hallo, diese Seite ist aktuell im Aufbau und ich probiere vieles aus.
+### Schön das Sie da sind !
 
-Nachdem ich bereits viele Jahren im Bereich Programmieurng und Datenbanken gearbeitet habe, studiere ich seit 2015 neben der Arbeit im Studiengang Online Medieninformatik an der HS Emden. GitHub nutze ich in erster Linie im Rahmes des Studiums zur Veröffentlichung meiner Arbeiten und wegen seiner Vorteile bei der
-Verwaltung und Versionsverwaltung. 
+Nachdem ich bereits viele Jahren im Bereich der Programmierung, Datenbanken und Datenpflege gearbeitet habe, studiere ich seit 2015 neben der Arbeit im Studiengang Online Medieninformatik an der HS Emden. 2019 Erhielt ich den Bachelorgrad und studiere aktuell im Masterstudiengang.
+
+Auf meiner GitHub Seite finden sich Arbeitem, Übungen und Abgaben, die im Laufe meines Studiums entstanden sind. Sie geben einen kleinen Einblick in meine Arbeitsweise und den Themen, mit denen ich mich im Laufe des Studiums beschäftigt habe. Daneben finden sich Übungen, die ich in meiner Freizeit für meine eigene - zumeißt beruflichen - Weiterbildung angefertigt habe. 
+
+Sollten Fragen auftauchen, können Sie mich gerne kontaktieren. Weiter bin ich auf [XING](https://www.xing.com/profile/Christian_Kitte/cv) und meiner eigenen [Webseite](https://wp.ckitte.de/) erreichbar.
+
+---
 
 Zur besseren Übersicht habe ich meine Repositories auf einzelnen Seiten manuell aufgeführt. Dies vereinfacht den Zugriff und ordnet sie nebenbei.
 
