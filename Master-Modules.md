@@ -3,6 +3,7 @@
 ## Graphical Visualisation Technologies WS 2022/23 (Master) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtInteractivAnimierteScheibe)](https://github.com/ChristianKitte/GvtInteractivAnimierteScheibe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtInteractiveSinusWave)](https://github.com/ChristianKitte/GvtInteractiveSinusWave)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtInteractiveColoredSinusWave)](https://github.com/ChristianKitte/GvtInteractiveColoredSinusWave)
 
 ## Game Design SS 2022 (Master) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GameDesignSemesterprojekt)](https://github.com/ChristianKitte/GameDesignSemesterprojekt)
