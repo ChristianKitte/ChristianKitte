@@ -7,8 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtFilledAreas)](https://github.com/ChristianKitte/GvtFilledAreas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtCameraMovement)](https://github.com/ChristianKitte/GvtCameraMovement)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtMoveObjects)](https://github.com/ChristianKitte/GvtMoveObjects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtZBufferVisualization)]
-(https://github.com/ChristianKitte/GvtZBufferVisualization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtZBufferVisualization)](https://github.com/ChristianKitte/GvtZBufferVisualization)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtLightsWithToonShading)](https://github.com/ChristianKitte/GvtLightsWithToonShading)
 
 ## Game Design SS 2022 (Master) 
