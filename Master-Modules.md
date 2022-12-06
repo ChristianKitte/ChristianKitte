@@ -4,6 +4,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtInteractivAnimierteScheibe)](https://github.com/ChristianKitte/GvtInteractivAnimierteScheibe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtInteractiveSinusWave)](https://github.com/ChristianKitte/GvtInteractiveSinusWave)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtInteractiveColoredSinusWave)](https://github.com/ChristianKitte/GvtInteractiveColoredSinusWave)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtFilledAreas)]
+(https://github.com/ChristianKitte/GvtFilledAreas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtCameraMovement)]
+(https://github.com/ChristianKitte/GvtCameraMovement)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtMoveObjects)]
+(https://github.com/ChristianKitte/GvtMoveObjects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtZBufferVisualization)](https://github.com/ChristianKitte/GvtZBufferVisualization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GvtLightsWithToonShading)](https://github.com/ChristianKitte/GvtLightsWithToonShading)
 
 ## Game Design SS 2022 (Master) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=GameDesignSemesterprojekt)](https://github.com/ChristianKitte/GameDesignSemesterprojekt)
