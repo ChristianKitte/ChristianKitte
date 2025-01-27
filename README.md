@@ -2,7 +2,7 @@
 
 ### Schön das Sie da sind !
 
-Nachdem ich bereits viele Jahren im Bereich der Programmierung, Datenbanken und Datenpflege gearbeitet habe, studiere ich seit 2015 neben der Arbeit im Studiengang Online Medieninformatik an der HS Emden. 2019 Erhielt ich den Bachelorgrad und studiere aktuell im Masterstudiengang.
+Nachdem ich bereits viele Jahren im Bereich der Programmierung, Datenbanken und Datenpflege gearbeitet habe, studiere ich seit 2015 neben der Arbeit im Studiengang Online Medieninformatik an der HS Emden. 2019 Erhielt ich den Bachelorgrad, 2024 den Mastergrad.
 
 Auf meiner GitHub Seite finden sich Arbeitem, Übungen und Abgaben, die im Laufe meines Studiums entstanden sind. Sie geben einen kleinen Einblick in meine Arbeitsweise und den Themen, mit denen ich mich im Laufe des Studiums beschäftigt habe. Daneben finden sich Übungen, die ich in meiner Freizeit für meine eigene - zumeißt beruflichen - Weiterbildung angefertigt habe. 
 
