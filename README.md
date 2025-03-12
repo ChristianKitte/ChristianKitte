@@ -1,16 +1,41 @@
 ![cropped-BewerbungHeader1](https://github.com/user-attachments/assets/a755b822-235b-4619-a4cd-64a4d5de5a76)
 
-### Schön das Sie da sind !
+### Schön, dass Sie da sind!
 
-Nachdem ich bereits viele Jahren im Bereich der Programmierung, Datenbanken und Datenpflege gearbeitet habe, studiere ich seit 2015 neben der Arbeit im Studiengang Online Medieninformatik an der HS Emden. 2019 Erhielt ich den Bachelorgrad, 2024 den Mastergrad.
+Hallo und herzlich willkommen auf meinem GitHub-Profil!
 
-Auf meiner GitHub Seite finden sich Arbeitem, Übungen und Abgaben, die im Laufe meines Studiums entstanden sind. Sie geben einen kleinen Einblick in meine Arbeitsweise und den Themen, mit denen ich mich im Laufe des Studiums beschäftigt habe. Daneben finden sich Übungen, die ich in meiner Freizeit für meine eigene - zumeißt beruflichen - Weiterbildung angefertigt habe. 
+Ich bin Christian und seit über zwanzig Jahren in den Bereichen **Programmierung, Datenbankentwicklung und -pflege** tätig. Meine Leidenschaft für IT begann bereits vor der Jahrtausendwende während meiner Fortbildung zum staatlich geprüften Techniker. Heute arbeite ich als **Software & Database Developer** bei einem Meinungsforschungsinstitut in der IT-Abteilung. Anfang 2024 konnte ich neben meiner Arbeit mein **Masterstudium (M.Sc.)** in Medieninformatik erfolgreich abschließen.
 
-Sollten Fragen auftauchen, können Sie mich gerne kontaktieren. Weiter bin ich auf [XING](https://www.xing.com/profile/Christian_Kitte/cv) und meiner eigenen [Webseite](https://wp.ckitte.de/) erreichbar.
+In meiner Freizeit widme ich mich gerne der **Fotografie**, dem **Malen** und dem **Lesen**.
 
 ---
 
-Zur besseren Übersicht habe ich meine Repositories auf einzelnen Seiten manuell aufgeführt. Dies vereinfacht den Zugriff und ordnet sie nebenbei.
+### Was Sie hier finden
+
+**Vielfältige Projekte**: Eine Vielzahl an Programmiersprachen und Themen.
+**Experimentelle Vorhaben**: Projekte, in denen ich neue Technologien ausprobiere.
+**Studienprojekte und Semesterarbeiten**: Dokumentation meines akademischen Werdegangs.
+**Quellcodes**: Einblicke in meine Arbeitsweise und Lösungsansätze.
+
+Werfen Sie einen Blick auf meine **gepinnten Repositories** – vielleicht entdecken Sie etwas, das Sie inspiriert!
+
+---
+
+###Kontakt und Austausch
+
+Bei Fragen oder Interesse an einer Zusammenarbeit können Sie mich gerne über folgende Kanäle erreichen:
+
+E-Mail: christian.kitte@email.dechristian.kitte@email.de
+
+Xing: [Christian_Kitte/cv](https://www.xing.com/profile/Christian_Kitte/cv)
+
+Website: [CKitte.de](https://wp.ckitte.de/)
+
+Ich freue mich über Feedback, Austausch und neue Kontakte. Vielen Dank für Ihren Besuch – und viel Spaß beim Stöbern!
+
+---
+
+Um Ihnen den Zugriff zu erleichtern und eine klare Struktur zu schaffen, habe ich meine Repositories thematisch sortiert. So können Sie gezielt zwischen den Codes aus meinem Bachelor- und Masterstudium sowie meinen eigenen Übungen wählen:
 
 [Code im Rahmen meines Studiums (Bachelor)](https://github.com/ChristianKitte/ChristianKitte/blob/main/Bachelor-Modules.md)
 
@@ -18,18 +43,6 @@ Zur besseren Übersicht habe ich meine Repositories auf einzelnen Seiten manuell
 
 [Eigene Übungen und Vertiefungen](https://github.com/ChristianKitte/ChristianKitte/blob/main/Training.md)
 
-### Etwas Statistik über die genutzten Sprachen und Aktivitäten
+### Statistiken zu den genutzten Sprachen und Aktivitäten
 
 [![Christian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianKitte&theme=aura&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-[![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianKitte&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
-
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
-[![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
