@@ -21,7 +21,7 @@ Werfen Sie einen Blick auf meine **gepinnten Repositories** – vielleicht entde
 
 ---
 
-###Kontakt und Austausch
+### Kontakt und Austausch
 
 Bei Fragen oder Interesse an einer Zusammenarbeit können Sie mich gerne über folgende Kanäle erreichen:
 
