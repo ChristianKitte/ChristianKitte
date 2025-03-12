@@ -1,4 +1,4 @@
-![backgrnd_tower](https://user-images.githubusercontent.com/32162305/178708403-5d86571a-e41c-4d8c-9ae2-b53d684c8125.jpg)
+![cropped-BewerbungHeader1](https://github.com/user-attachments/assets/a755b822-235b-4619-a4cd-64a4d5de5a76)
 
 ### Schön das Sie da sind !
 
