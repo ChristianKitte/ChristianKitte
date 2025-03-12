@@ -21,20 +21,6 @@ Werfen Sie einen Blick auf meine **gepinnten Repositories** – vielleicht entde
 
 ---
 
-### Kontakt und Austausch
-
-Bei Fragen oder Interesse an einer Zusammenarbeit können Sie mich gerne über folgende Kanäle erreichen:
-
-E-Mail: christian.kitte@email.dechristian.kitte@email.de
-
-Xing: [Christian_Kitte/cv](https://www.xing.com/profile/Christian_Kitte/cv)
-
-Website: [CKitte.de](https://wp.ckitte.de/)
-
-Ich freue mich über Feedback, Austausch und neue Kontakte. Vielen Dank für Ihren Besuch – und viel Spaß beim Stöbern!
-
----
-
 Um Ihnen den Zugriff zu erleichtern und eine klare Struktur zu schaffen, habe ich meine Repositories thematisch sortiert. So können Sie gezielt zwischen den Codes aus meinem Bachelor- und Masterstudium sowie meinen eigenen Übungen wählen:
 
 [Code im Rahmen meines Studiums (Bachelor)](https://github.com/ChristianKitte/ChristianKitte/blob/main/Bachelor-Modules.md)
@@ -43,6 +29,22 @@ Um Ihnen den Zugriff zu erleichtern und eine klare Struktur zu schaffen, habe ic
 
 [Eigene Übungen und Vertiefungen](https://github.com/ChristianKitte/ChristianKitte/blob/main/Training.md)
 
+
+
 ### Statistiken zu den genutzten Sprachen und Aktivitäten
 
 [![Christian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianKitte&theme=aura&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Kontakt und Austausch
+
+Bei Fragen oder Interesse an einer Zusammenarbeit können Sie mich gerne über folgende Kanäle erreichen:
+
+E-Mail: christian.kitte@email.de
+
+Xing: [Christian_Kitte/cv](https://www.xing.com/profile/Christian_Kitte/cv)
+
+Website: [CKitte.de](https://wp.ckitte.de/)
+
+Ich freue mich über Feedback, Austausch und neue Kontakte. Vielen Dank für Ihren Besuch – und viel Spaß beim Stöbern!
