@@ -13,11 +13,13 @@ In meiner Freizeit widme ich mich gerne der **Fotografie**, dem **Malen** und de
 ### Was Sie hier finden
 
 - **Vielfältige Projekte**: Eine Vielzahl an Programmiersprachen und Themen.
-- **Experimentelle Vorhaben**: Projekte, in denen ich neue Technologien ausprobiere.
-- **Studienprojekte und Semesterarbeiten**: Dokumentation meines akademischen Werdegangs.
+- **Experimentelle Vorhaben**: Projekte, in denen ich für mich neue Themen ausprobiere.
+- **Studienprojekte und Semesterarbeiten**: Dokumentation meines Studiums.
 - **Quellcodes**: Einblicke in meine Arbeitsweise und Lösungsansätze.
 
 Werfen Sie einen Blick auf meine **gepinnten Repositories** – vielleicht entdecken Sie etwas, das Sie inspiriert!
+
+Bitte haben Sie Verständnis dafür, dass allein schon aus zeitlichen Gründen der hier hinterlegte Code in vielen Fällen nicht mehr gepflegt werden kann. Dies führt in manchen Fällen leider auch zu Einschränkungen in der angebotenen Live-Ansicht.
 
 ---
 
