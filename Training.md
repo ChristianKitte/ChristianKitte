@@ -14,6 +14,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=HelloAndroidSafeArgs)](https://github.com/ChristianKitte/HelloAndroidSafeArgs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=HelloAndroidNavigation)](https://github.com/ChristianKitte/HelloAndroidNavigation)
 
+### KI unterstützt
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=Ext18Tool)](https://github.com/ChristianKitte/Ext18Tool)
+
 ### Noch einzuordnen
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=Linkliste)](https://github.com/ChristianKitte/Linkliste)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=HelloFSharp)](https://github.com/ChristianKitte/HelloFSharp)
