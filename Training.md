@@ -16,7 +16,6 @@
 
 ### KI unterstützt
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=Ext18Tool)](https://github.com/ChristianKitte/Ext18Tool)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=HelloCursorAI)](https://github.com/ChristianKitte/HelloCursorAI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianKitte&repo=Zeiterfassung)](https://github.com/ChristianKitte/Zeiterfassung)
 
 ### Noch einzuordnen
