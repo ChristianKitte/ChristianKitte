@@ -4,9 +4,9 @@
 
 Hallo und herzlich willkommen auf meinem GitHub-Profil!
 
-Ich bin Christian und seit über zwanzig Jahren in den Bereichen **Programmierung, Datenbankentwicklung und -pflege** tätig. Meine Leidenschaft für IT begann bereits vor der Jahrtausendwende während meiner Fortbildung zum staatlich geprüften Techniker. Heute arbeite ich als **Software & Database Developer** bei einem Meinungsforschungsinstitut in der IT-Abteilung. Anfang 2024 konnte ich neben meiner Arbeit mein **Masterstudium (M.Sc.)** in Medieninformatik erfolgreich abschließen.
+Ich bin Christian und seit über zwanzig Jahren in den Bereichen **Programmierung, Datenbankentwicklung und -pflege** tätig. Meine Leidenschaft für IT begann bereits vor der Jahrtausendwende während meiner Fortbildung zum staatlich geprüften Techniker. Heute arbeite ich als **Software & Database Developer** bei einem Meinungsforschungsinstitut in der IT-Abteilung. Anfang 2024 konnte ich neben meiner Arbeit mein **Masterstudium (M.Sc.)** in Medieninformatik erfolgreich abschließen. Daneben interessiere ich mich sehr für das weite Gebiet der künstlichen Intelligenz und um deren rasanten Entwicklung und Einfluß insbesondere auch auf mein eigenes Tätigkeitsfeld.
 
-In meiner Freizeit widme ich mich gerne der **Fotografie**, dem **Malen** und dem **Lesen**.
+In meiner Freizeit bin ich gerne in der Natur oder widme ich mich der **Fotografie**, dem **Malen** oder **Lesen**.
 
 ---
 
